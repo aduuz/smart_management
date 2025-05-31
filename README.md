@@ -1,6 +1,4 @@
-# smart_management
-
-# Suv Oqimini Monitoring Loyihasi ( SMart management )/ Water Flow Monitoring Project
+# Suv Oqimini Monitoring Loyihasi ( Smart management )/ Water Flow Monitoring Project
 
 https://sn.javo.uz/
 
